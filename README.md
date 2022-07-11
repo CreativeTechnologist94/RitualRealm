@@ -1,2 +1,2 @@
 # Ritual Realms in VR
-Virtual rality Interactive protoype
+Virtual reality Interactive protoype
